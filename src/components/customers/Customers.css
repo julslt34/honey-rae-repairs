@@ -1,0 +1,14 @@
+.customers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.customer {
+    background-color: hotpink;
+    border: 2px dotted orangered;
+    color: black;
+    padding: 0,5rem;
+    margin: 0.5rem
+}
